@@ -1,0 +1,15 @@
+*.class
+*.o
+*.out
+*.log
+*.jar
+*.war
+*.zip
+*.tar
+*.gz
+*.rar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.bz2
+*.7z
