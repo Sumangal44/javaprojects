@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "A Vite-powered static site generator.",
   "dependencies": {
-    "esbuild": ">=0.25.0"
+    "esbuild": ">=0.25.2"
   },
   "devDependencies": {
-    "esbuild": ">=0.25.0",
+    "esbuild": ">=0.25.2",
     "vitepress": "^1.6.3"
   },
   "scripts": {
