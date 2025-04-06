@@ -1,7 +1,7 @@
 {
-  "name": "vitepress",
+  "name": "javaprojects",
   "version": "0.0.1",
-  "description": "A Vite-powered static site generator.",
+  "description": "java project docs site build with vitepress",
   "dependencies": {
     "esbuild": ">=0.25.2"
   },

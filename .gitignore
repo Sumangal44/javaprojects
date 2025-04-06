@@ -1,4 +1,9 @@
 node_modules
-* .class
+*.class
+*.log
+dist
+cache
+*.tmp
+.temp 
 
 
