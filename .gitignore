@@ -1,7 +1,6 @@
 node_modules
 *.class
 *.log
-dist
 cache
 *.tmp
 .temp 
