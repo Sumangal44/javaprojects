@@ -35,8 +35,7 @@ export default defineConfig({
         text: 'Projects',
         items: [
           { text: 'Calculator', link: '/projects/calculator' },
-          { text: 'Student Management', link: '/projects/student-management' },
-          { text: 'Banking System', link: '/projects/banking-system' },
+          { text: 'Number Guessing Game', link: '/projects/number-guessing-game' },
         ],
       },
       {

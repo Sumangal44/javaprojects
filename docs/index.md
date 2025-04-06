@@ -42,9 +42,9 @@ Make sure you have Java Development Kit (JDK) installed before getting started.
 
 ## Quick Links
 
-- [Calculator Project](/projects/calculator) - Basic arithmetic operations
-- [Student Management](/projects/student-management) - Manage student records
-- [Banking System](/projects/banking-system) - Basic banking operations
+- [Calculator Project]() - Basic arithmetic operations
+- [Student Management]() - Manage student records
+- [Banking System]() - Basic banking operations
 
 ## Latest Updates
 

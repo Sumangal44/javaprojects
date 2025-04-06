@@ -2,6 +2,7 @@ node_modules
 *.class
 *.log
 cache
+dist
 *.tmp
 .temp 
 
