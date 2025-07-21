@@ -3,10 +3,10 @@
   "version": "0.0.3",
   "description": "java project docs site build with vitepress",
   "dependencies": {
-    "esbuild": ">=0.25.6"
+    "esbuild": ">=0.25.8"
   },
   "devDependencies": {
-    "esbuild": ">=0.25.6",
+    "esbuild": ">=0.25.8",
     "vitepress": "^1.6.3"
   },
   "scripts": {
